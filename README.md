@@ -1,5 +1,7 @@
 # 🎄🎁 Advent of Code 2022! 🎁🎄
-I am a noob to Go! This year I want to use the AoC as an excuse to play with language. Hopefully my code doesn't make those experienced with Go queasy!.
+I am a noob to Go! This year I want to use the AoC as an excuse to play with language. Hopefully my code doesn't make those experienced with Go queasy!
+
+You should try to [feed Santa's raindeers](https://adventofcode.com/) too! 🎅
 
 | Day | Puzzle A | Puzzle B |
 | --- |----|----|
