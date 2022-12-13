@@ -1,5 +1,5 @@
 # 🎄🎁 Advent of Code 2022! 🎁🎄
-The focus is canonically correct answers; making the correct datastructure in `c` to solve the problem as opposed to hacking my way through. (Until things get to complex then I'll revert to hacking 😅).
+I am a noob to Go! This year I want to use the AoC as an excuse to play with language. Hopefully my code doesn't make those experienced with Go queasy!.
 
 | Day | PT1 | PT2 |
 | --- | ---- | ---- |
